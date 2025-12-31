@@ -4,6 +4,14 @@
   "publisher": "fetquest",
   "icon": "images/gitsense_icon.png",
   "description": "Git insights for safe merges, branch comparison, and conflict detection",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dhineshaps/gitsense"
+  },
+  "homepage": "https://github.com/dhineshaps/gitsense",
+  "bugs": {
+    "url": "https://github.com/dhineshaps/gitsense/issues"
+  },
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.107.0"

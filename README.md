@@ -9,3 +9,11 @@ Git insights for safe merges, branch comparison, and conflict detection.
 
 ## Commands
 - GitSense: Check Merge
+
+
+## Author
+
+**Dhinesh Palanisamy**
+
+- GitHub: https://github.com/dhineshaps
+- Built with ❤️ to make Git merges safer in VS Code
