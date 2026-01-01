@@ -17,3 +17,9 @@ Git insights for safe merges, branch comparison, and conflict detection.
 
 - GitHub: https://github.com/dhineshaps
 - Built with ❤️ to make Git merges safer in VS Code
+
+⚠️ DEPRECATED
+
+This extension is no longer maintained.
+Please use **GitMend** instead:
+👉 https://marketplace.visualstudio.com/items?itemName=fetquest.gitmend
